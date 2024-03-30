@@ -1,6 +1,7 @@
 # Spotify Integrated Dashboard
 
-### To run: npm run dev
+### To Use:
+npm run dev
 
 ## React + Vite
 Set up to get React working in Vite with HMR and some ESLint rules.
